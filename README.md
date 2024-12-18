@@ -1,2 +1,2 @@
 # assignment3
-a project of SSB
+a project of SSB by matlab
