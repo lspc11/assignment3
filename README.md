@@ -1,2 +1,2 @@
 # assignment3
-to get familiar with repo
+a project of SSB
